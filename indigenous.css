@@ -1,4 +1,5 @@
 body{
-background-image: "https://github.com/hansenhy89/learnindigenous/blob/master/native-american-sepia.jpg?raw=true";
-background-image: cover
+background:url("https://github.com/hansenhy89/learnindigenous/blob/master/native-american-sepia.jpg?raw=true");
+background-repeat: no repeat;
+background-size:cover;
 }
